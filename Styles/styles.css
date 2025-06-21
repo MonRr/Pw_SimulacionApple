@@ -1,0 +1,13 @@
+.body {
+    background-color: rgb (50, 51, 62);
+}
+.nav {
+    background-color: rgb (156, 51, 62);
+}
+.titulo1{
+    color: white;
+}
+.titulo1 span{
+    color: rgb(156, 147, 145);
+
+}
